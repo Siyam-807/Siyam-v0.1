@@ -1,1 +1,0 @@
-<p>pkg update &amp;&amp; pkg upgrade pkg install git pkg install python pip install requests pip install futures pip install mechanize pip install rich pip install bs4 git clone https://github.com/Siyam-807/Siyam-v0.1.git cd Siyam-0.1 ls python Siyam-0.1.py</p>
